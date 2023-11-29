@@ -79,16 +79,8 @@ The DecisionTree Regressor 100 % of Accuracy works.
 # Describe the dataset
 ![image](https://github.com/ThanlakshmiM/Store_Sales_Data_Predict/assets/111423676/19413301-e0b4-4db0-83f6-ee14cc4e2e67)
 
-# Total of Type each Store
-Here from the above pie chart it is clearly visible that Type c has the minimum number of stores while Type A has the maximum number of stores.
-![image](https://github.com/ThanlakshmiM/Store_Sales_Data_Predict/assets/111423676/38d777f4-c1d3-4d87-8ed0-e02e9316c6ee)
-
 # Feature Importance
 ![image](https://github.com/ThanlakshmiM/Store_Sales_Data_Predict/assets/111423676/4b6955eb-c459-426a-9c39-fa33fb8195d0)
-# Markdown effect on Holidays
-select one markdown negative sales on Holidays show in scatter plot
-
-![image](https://github.com/ThanlakshmiM/Store_Sales_Data_Predict/assets/111423676/abbb2d86-d475-4a44-99d7-7bcd40492f8c)
 
 
 
