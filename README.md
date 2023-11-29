@@ -70,7 +70,8 @@ We examined the store’s sales forecasting dataset by applying various statisti
 We trained and developed four ML models. We also concluded that for this problem, DecisionTree Regressor works best.
 
 
-![image](https://github.com/ThanlakshmiM/Store_Sales_Data_Predict/assets/111423676/04163fe9-8183-4ba9-a99b-f60f613ad768)
+![image](https://github.com/ThanlakshmiM/Store_Sales_Data_Predict/assets/111423676/5ada933f-1eb1-4303-854f-fc1edd415720)
+
 user select a algorthm of pridict the weekly sales
 # Accuracy & Metrics of DecisionTree
 The DecisionTree Regressor 100 % of Accuracy works.
