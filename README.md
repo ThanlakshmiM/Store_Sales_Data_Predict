@@ -63,3 +63,6 @@ Using the merge function to merge and we are merging along the common column nam
 Let’s develop a machine learning model for further analysis.
 
 ![Intro GUI]()
+# Describe the dataset
+![image](https://github.com/ThanlakshmiM/Store_Sales_Data_Predict/assets/111423676/19413301-e0b4-4db0-83f6-ee14cc4e2e67)
+
